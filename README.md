@@ -1,5 +1,5 @@
 # simpliest_tg_parsing
-The simplest implementation of a parser of data about users of channels/chats (where participants can be seen by all)
+The simplest implementation of a Telegram parser of data about users of channels/chats (where participants can be seen by all)
 
 DB format:
   [username,user id,access hash,name,group,group id]
